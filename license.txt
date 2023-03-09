@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ordinary Behavior | Laptop
+* source:	https://sketchfab.com/3d-models/ordinary-behavior-laptop-05ad8ea622744bd69aeefacb41ea466c
+* author:	gozdemrl (https://sketchfab.com/gozdemrl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ordinary Behavior | Laptop" (https://sketchfab.com/3d-models/ordinary-behavior-laptop-05ad8ea622744bd69aeefacb41ea466c) by gozdemrl (https://sketchfab.com/gozdemrl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
